@@ -25,6 +25,7 @@ Estoy buscando mi primera oportunidad en una empresa donde pueda aplicar todo lo
 ## Habilidades
 ### Testing manual
 * Capacidad para realizar testing de funcionalidad para aplicaciones web
+* Ejecutar pruebas en aplicaciones o sistemas para identificar errores y asegurar su correcto funcionamiento. 
 
 ### Diseño y análisis de casos de prueba
 * Análisis de requermientos
