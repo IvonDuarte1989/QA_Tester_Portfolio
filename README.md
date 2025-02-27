@@ -25,7 +25,7 @@ Estoy buscando mi primera oportunidad en una empresa donde pueda aplicar todo lo
 ## Habilidades
 ### Testing manual
 * Capacidad para realizar testing de funcionalidad para aplicaciones web
-* Ejecutar pruebas en aplicaciones o sistemas para identificar errores y asegurar su correcto funcionamiento. 
+* Ejecutar pruebas en aplicaciones o sistemas para identificar errores y asegurar su correcto funcionamiento 
 
 ### Diseño y análisis de casos de prueba
 * Análisis de requermientos
@@ -34,39 +34,41 @@ Estoy buscando mi primera oportunidad en una empresa donde pueda aplicar todo lo
 
 ### API testing
 * Diferencia entre APIs SOAP y REST
-* Creación de peticiones para pruebas.
+* Creación de peticiones para pruebas
 
-### Exploratory testing
+### Pruebas exploratorias
+* Capaz de utilizar los test tours de Whittaker y de crear listas de verificación para probar aplicaciones web
 
-capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
-Test documentation
+### Documentación de pruebas
+* Capaz de crear casos de prueba y checklists y reconocer cómo y en qué situaciones utilizarlos de manera efectiva
+* Habilidad para preparar informes de errores detallados y proporcionar reportes completos de sesiones de prueba
 
-can create test cases and checklists and know how and in which situations to use them effectively
-able to prepare comprehensive bug reports and provide detailed session reports
-SQL databases
+### Bases de datos SQL
+* Capaz de escribir consultas complejas utilizando subconsultas
+* Familiarizado con el uso de alias y comodines
+* Conoce la diferencia entre joins y unions y puede aplicarlos en consultas
 
-can write complex requests using subqueries
-familiar with the use of aliases and wildcards
-know the difference between joins and unions and can use them in queries
-Python fundamentals
+### Habilidades blandas
+* Pensamiento analítico – Capacidad para analizar problemas y encontrar patrones
+* Atención al detalle – Habilidad para identificar errores e inconsistencias
+* Trabajo en equipo – Colaboración con desarrolladores, analistas y otros testers
+* Resolución de problemas – Capacidad de investigar y proponer soluciones
+* Adaptabilidad – Flexibilidad para trabajar con cambios y nuevos requisitos
+* Curiosidad y aprendizaje continuo – Interés en mejorar y aprender nuevas herramientas y técnicas de testing
+* Gestión del tiempo – Organización para cumplir plazos y manejar múltiples tareas
+* Proactividad – Capacidad de tomar iniciativa en la búsqueda y documentación de errores
 
-can write simple functions and algorithms
-know when to use for and while
-able to comprehend easy codes
+  ## Cursos
+  * Codo a Codo 4.0 - Full Stack - Python (2022) + Portfolio
 
+    Link: [https://ojodulce.netlify.app/](https://ojodulce.netlify.app/)
 
-TEXT 1
+    Portfolio: [Link al proyecto](https://github.com/IvonDuarte1989/pasteleria)
 
-## This heading is not unique in the file
+* Codo a Codo 4.0 - Testing QA & Automatización (2024) + Portfolio
+* Educación IT - Tester QA Manual (2024)
+* Educación IT - Análisis y Diseño de Casos de Pruebas (2024) + Portfolio
 
-TEXT 2
-
-# Links to the example headings above
-
-Link to the sample section: [Link Text](#sample-section).
-
-Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
-
-Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
-
-Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
+## Libros
+* Wong Durand, S. (2017). Análisis y requerimientos de software: Manual autoformativo interactivo. Universidad Continental
+* Comité Internacional de Cualificación de Pruebas de Software. (2023). ISTQB Certified Tester Foundation Level
