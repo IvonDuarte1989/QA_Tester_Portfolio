@@ -58,12 +58,8 @@ Estoy buscando mi primera oportunidad en una empresa donde pueda aplicar todo lo
 * Gestión del tiempo – Organización para cumplir plazos y manejar múltiples tareas
 * Proactividad – Capacidad de tomar iniciativa en la búsqueda y documentación de errores
 
-  ## Cursos
-  * Codo a Codo 4.0 - Full Stack - Python (2022) + Portfolio
-
-    Link: [https://ojodulce.netlify.app/](https://ojodulce.netlify.app/)
-
-    Portfolio: [Link al proyecto](https://github.com/IvonDuarte1989/pasteleria)
+## Cursos
+* Codo a Codo 4.0 - Full Stack - Python (2022) + [Portfolio](https://github.com/IvonDuarte1989/pasteleria)
 
 * Codo a Codo 4.0 - Testing QA & Automatización (2024) + Portfolio
 * Educación IT - Tester QA Manual (2024)
