@@ -1,4 +1,4 @@
-# Portfolio
+# QA Tester Portfolio
 
 ## Perfil
 Mi nombre es Daniela Ivón Duarte, soy de Buenos Aires, Argentina, y estoy en pleno crecimiento profesional en el área de QA Testing. En 2024, completé el curso de QA Testing del programa Codo a Codo, y continué mi formación con estudios en testing manual, diseño y análisis de casos de prueba en Educación IT entre 2024 y 2025. Actualmente, estoy profundizando mis conocimientos a través de la tecnicatura en programación informática en la Universidad Nacional de Quilmes.
