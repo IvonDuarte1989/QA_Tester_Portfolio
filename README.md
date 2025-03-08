@@ -59,7 +59,7 @@ Estoy buscando mi primera oportunidad en una empresa donde pueda aplicar todo lo
 ## Cursos
 * Codo a Codo 4.0 - Full Stack - Python (2022) + [Portfolio](https://github.com/IvonDuarte1989/pasteleria)
 * Codo a Codo 4.0 - Testing QA & Automatización (2024) + [Portfolio](https://github.com/IvonDuarte1989/CodoACodoTesting-Automatizacion)
-* Educación IT - Tester QA Manual (2024) + [Contenidos]()
+* Educación IT - Tester QA Manual (2024) + [Contenidos](https://github.com/IvonDuarte1989/EducacionITTesterManual/blob/main/README.md)
 * Educación IT - Análisis y Diseño de Casos de Pruebas (2024) + [Portfolio](https://github.com/IvonDuarte1989/EducacionITCasosDePrueba)
 
 ## Ejemplos de mi trabajo  
