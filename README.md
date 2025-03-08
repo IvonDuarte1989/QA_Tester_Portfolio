@@ -7,8 +7,6 @@ Poseo conocimientos en SQL, pruebas de API con Postman, análisis de requerimien
 
 Estoy buscando mi primera oportunidad en una empresa donde pueda aplicar todo lo que he aprendido, seguir creciendo y aportar valor al equipo. Estoy comprometida con mi desarrollo profesional y motivada para enfrentar nuevos desafíos en el mundo del software testing.
 
-[Mi perfil de LinkedIn](https://www.linkedin.com/in/daniela-ivon-duarte/)
-
 ## Herramientas
 * Jira, Spiraplan - project management
 * Slack - communication within the team
@@ -60,11 +58,18 @@ Estoy buscando mi primera oportunidad en una empresa donde pueda aplicar todo lo
 
 ## Cursos
 * Codo a Codo 4.0 - Full Stack - Python (2022) + [Portfolio](https://github.com/IvonDuarte1989/pasteleria)
-
 * Codo a Codo 4.0 - Testing QA & Automatización (2024) + [Portfolio](https://github.com/IvonDuarte1989/CodoACodoTesting-Automatizacion)
-* Educación IT - Tester QA Manual (2024) + Contenidos
+* Educación IT - Tester QA Manual (2024) + [Contenidos]()
 * Educación IT - Análisis y Diseño de Casos de Pruebas (2024) + [Portfolio](https://github.com/IvonDuarte1989/EducacionITCasosDePrueba)
+
+## Ejemplos de mi trabajo  
 
 ## Libros
 * Wong Durand, S. (2017). Análisis y requerimientos de software: Manual autoformativo interactivo. Universidad Continental
 * Comité Internacional de Cualificación de Pruebas de Software. (2023). ISTQB Certified Tester Foundation Level
+
+## Contáctame
+[LinkedIn](https://www.linkedin.com/in/daniela-ivon-duarte/)
+[GitHub]()
+E-Mail: danielaivonduarte@gmail.com
+  
