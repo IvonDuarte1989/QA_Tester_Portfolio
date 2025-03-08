@@ -69,7 +69,7 @@ Estoy buscando mi primera oportunidad en una empresa donde pueda aplicar todo lo
 * Comité Internacional de Cualificación de Pruebas de Software. (2023). ISTQB Certified Tester Foundation Level
 
 ## Contáctame
-[LinkedIn](https://www.linkedin.com/in/daniela-ivon-duarte/)
-[GitHub]()
-E-Mail: danielaivonduarte@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/daniela-ivon-duarte/)
+* [GitHub](https://github.com/IvonDuarte1989)
+* E-Mail: danielaivonduarte@gmail.com
   
