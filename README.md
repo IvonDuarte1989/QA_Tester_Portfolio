@@ -62,7 +62,10 @@ Estoy buscando mi primera oportunidad en una empresa donde pueda aplicar todo lo
 * Educación IT - Tester QA Manual (2024) + [Contenidos](https://github.com/IvonDuarte1989/EducacionITTesterManual/blob/main/README.md)
 * Educación IT - Análisis y Diseño de Casos de Pruebas (2024) + [Portfolio](https://github.com/IvonDuarte1989/EducacionITCasosDePrueba)
 
-## Ejemplos de mi trabajo  
+## Ejemplos de mi trabajo 
+### Documentación de muestra | Cuesta Blanca
+*[Casos de Prueba](https://docs.google.com/spreadsheets/d/19USPOfThNPuMei1hHb9Ey3YkZm2NhyfaYo6mJUIU_O4/edit?usp=drive_link)
+*[Reporte de Errores](https://docs.google.com/spreadsheets/d/1ObkLRDAbsNiAP2ZGg-Ry9xcW6SxNy868uwi5Wn9tC18/edit?usp=drive_link)
 
 ## Libros
 * Wong Durand, S. (2017). Análisis y requerimientos de software: Manual autoformativo interactivo. Universidad Continental
