@@ -64,8 +64,11 @@ Estoy buscando mi primera oportunidad en una empresa donde pueda aplicar todo lo
 
 ## Ejemplos de mi trabajo 
 ### Documentación de muestra | Cuesta Blanca
-*[Casos de Prueba](https://docs.google.com/spreadsheets/d/19USPOfThNPuMei1hHb9Ey3YkZm2NhyfaYo6mJUIU_O4/edit?usp=drive_link)
-*[Reporte de Errores](https://docs.google.com/spreadsheets/d/1ObkLRDAbsNiAP2ZGg-Ry9xcW6SxNy868uwi5Wn9tC18/edit?usp=drive_link)
+* [Casos de Prueba](https://docs.google.com/spreadsheets/d/19USPOfThNPuMei1hHb9Ey3YkZm2NhyfaYo6mJUIU_O4/edit?usp=drive_link)
+* [Reporte de Errores](https://docs.google.com/spreadsheets/d/1ObkLRDAbsNiAP2ZGg-Ry9xcW6SxNy868uwi5Wn9tC18/edit?usp=drive_link)
+
+### Consultas en PostgreSQL
+* [SQL](https://docs.google.com/document/d/1oS9i0QEwOG0rfQScSPTxb5-Qv2cJfLX9QTXc7C3nSHc/edit?usp=drive_link)
 
 ## Libros
 * Wong Durand, S. (2017). Análisis y requerimientos de software: Manual autoformativo interactivo. Universidad Continental
