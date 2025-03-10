@@ -7,6 +7,9 @@ Tengo conocimientos en testing manual, análisis de casos de prueba, SQL, prueba
 
 Busco mi primera oportunidad para aplicar mis habilidades, aprender y aportar valor a un equipo de trabajo. Me motiva la mejora continua y el desafío de asegurar la calidad del software.
 
+## CV
+Descagar mi CV en PDF [desde mi Google Drive]()
+
 ## Herramientas 🔧
 * Jira, Spiraplan - project management
 * Slack - communication within the team
