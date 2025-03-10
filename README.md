@@ -1,4 +1,4 @@
-# QA Tester Portfolio
+# QA Tester Portfolio 🔍🐞
 
 ## Perfil 👋
 Mi nombre es Daniela Ivón Duarte, QA Tester autodidacta en constante crecimiento. Actualmente, estudio la Tecnicatura en Programación Informática en la Universidad Nacional de Quilmes.  
@@ -7,7 +7,7 @@ Tengo conocimientos en testing manual, análisis de casos de prueba, SQL, prueba
 
 Busco mi primera oportunidad para aplicar mis habilidades, aprender y aportar valor a un equipo de trabajo. Me motiva la mejora continua y el desafío de asegurar la calidad del software.
 
-## CV 📌
+## CV 📝
 Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1Vpvc-s4HcCOv32mof_jWA5932k9PZY3m/view?usp=drive_link)
 
 ## Herramientas 🔧
@@ -78,7 +78,7 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1V
 * Wong Durand, S. (2017). Análisis y requerimientos de software: Manual autoformativo interactivo. Universidad Continental
 * Comité Internacional de Cualificación de Pruebas de Software. (2023). ISTQB Certified Tester Foundation Level
 
-## Contáctame
+## Contáctame 📩
 * [LinkedIn](https://www.linkedin.com/in/daniela-ivon-duarte/)
 * [GitHub](https://github.com/IvonDuarte1989)
 * E-Mail: danielaivonduarte@gmail.com
