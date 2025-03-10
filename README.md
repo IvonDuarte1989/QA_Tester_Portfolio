@@ -84,7 +84,7 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1V
 * [GitHub](https://github.com/IvonDuarte1989)
 
 ## QA Tester Portfolio (English)
-* [Link QA Tester Portfolio]()
+* [Link QA Tester Portfolio](https://qatesterportfolio.netlify.app/)
 
 
   
