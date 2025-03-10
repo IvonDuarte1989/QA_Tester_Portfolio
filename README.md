@@ -1,11 +1,11 @@
 # QA Tester Portfolio
 
 ## Perfil
-Mi nombre es Daniela Ivón Duarte, soy de Buenos Aires, Argentina, y estoy en pleno crecimiento profesional en el área de QA Testing. En 2024, completé el curso de QA Testing del programa Codo a Codo, y continué mi formación con estudios en testing manual, diseño y análisis de casos de prueba en Educación IT entre 2024 y 2025. Actualmente, estoy profundizando mis conocimientos a través de la tecnicatura en programación informática en la Universidad Nacional de Quilmes.
+Mi nombre es Daniela Ivón Duarte, QA Tester autodidacta en constante crecimiento. Actualmente, estudio la Tecnicatura en Programación Informática en la Universidad Nacional de Quilmes.  
 
-Poseo conocimientos en SQL, pruebas de API con Postman, análisis de requerimientos, gestión de tareas con Jira, metodologías ágiles como Scrum y fundamentos de automatización de pruebas con Rapise.
+Tengo conocimientos en testing manual, análisis de casos de prueba, SQL, pruebas de API con Postman, análisis de requerimientos, Jira, metodologías ágiles (Scrum) y fundamentos de automatización con Rapise.  
 
-Estoy buscando mi primera oportunidad en una empresa donde pueda aplicar todo lo que he aprendido, seguir creciendo y aportar valor al equipo. Estoy comprometida con mi desarrollo profesional y motivada para enfrentar nuevos desafíos en el mundo del software testing.
+Busco mi primera oportunidad para aplicar mis habilidades, aprender y aportar valor a un equipo de trabajo. Me motiva la mejora continua y el desafío de asegurar la calidad del software.
 
 ## Herramientas
 * Jira, Spiraplan - project management
