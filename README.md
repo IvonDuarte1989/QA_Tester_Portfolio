@@ -1,13 +1,13 @@
 # QA Tester Portfolio
 
-## Perfil
+## Perfil 👋
 Mi nombre es Daniela Ivón Duarte, QA Tester autodidacta en constante crecimiento. Actualmente, estudio la Tecnicatura en Programación Informática en la Universidad Nacional de Quilmes.  
 
 Tengo conocimientos en testing manual, análisis de casos de prueba, SQL, pruebas de API con Postman, análisis de requerimientos, Jira, metodologías ágiles (Scrum) y fundamentos de automatización con Rapise.  
 
 Busco mi primera oportunidad para aplicar mis habilidades, aprender y aportar valor a un equipo de trabajo. Me motiva la mejora continua y el desafío de asegurar la calidad del software.
 
-## Herramientas
+## Herramientas 🔧
 * Jira, Spiraplan - project management
 * Slack - communication within the team
 * Google Drive - storing data
@@ -20,7 +20,7 @@ Busco mi primera oportunidad para aplicar mis habilidades, aprender y aportar va
 * Visual Studio Code - practicing HTML and CSS
 * XRay - Jira plugin
 
-## Habilidades
+## Habilidades 💻
 ### Testing manual
 * Capacidad para realizar testing de funcionalidad para aplicaciones web
 * Ejecutar pruebas en aplicaciones o sistemas para identificar errores y asegurar su correcto funcionamiento 
@@ -46,7 +46,7 @@ Busco mi primera oportunidad para aplicar mis habilidades, aprender y aportar va
 * Familiarizado con el uso de alias y comodines
 * Conoce la diferencia entre joins y unions y puede aplicarlos en consultas
 
-### Habilidades blandas
+### Habilidades blandas 📁
 * Pensamiento analítico – Capacidad para analizar problemas y encontrar patrones
 * Atención al detalle – Habilidad para identificar errores e inconsistencias
 * Trabajo en equipo – Colaboración con desarrolladores, analistas y otros testers
@@ -56,13 +56,13 @@ Busco mi primera oportunidad para aplicar mis habilidades, aprender y aportar va
 * Gestión del tiempo – Organización para cumplir plazos y manejar múltiples tareas
 * Proactividad – Capacidad de tomar iniciativa en la búsqueda y documentación de errores
 
-## Cursos
+## Cursos 📓
 * Codo a Codo 4.0 - Full Stack - Python (2022) + [Portfolio](https://github.com/IvonDuarte1989/pasteleria)
 * Codo a Codo 4.0 - Testing QA & Automatización (2024) + [Portfolio](https://github.com/IvonDuarte1989/CodoACodoTesting-Automatizacion)
 * Educación IT - Tester QA Manual (2024) + [Contenidos](https://github.com/IvonDuarte1989/EducacionITTesterManual/blob/main/README.md)
 * Educación IT - Análisis y Diseño de Casos de Pruebas (2024) + [Portfolio](https://github.com/IvonDuarte1989/EducacionITCasosDePrueba)
 
-## Ejemplos de mi trabajo 
+## Ejemplos de mi trabajo 🔬
 ### Documentación de muestra 
 * [Cuesta Blanca](https://www.cuestablanca.com/)
   - [Casos de Prueba](https://docs.google.com/spreadsheets/d/19USPOfThNPuMei1hHb9Ey3YkZm2NhyfaYo6mJUIU_O4/edit?usp=drive_link)
@@ -71,7 +71,7 @@ Busco mi primera oportunidad para aplicar mis habilidades, aprender y aportar va
 ### Consultas en PostgreSQL
 * [SQL](https://docs.google.com/document/d/1oS9i0QEwOG0rfQScSPTxb5-Qv2cJfLX9QTXc7C3nSHc/edit?usp=drive_link)
 
-## Libros
+## Libros 📚
 * Wong Durand, S. (2017). Análisis y requerimientos de software: Manual autoformativo interactivo. Universidad Continental
 * Comité Internacional de Cualificación de Pruebas de Software. (2023). ISTQB Certified Tester Foundation Level
 
