@@ -83,4 +83,8 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1V
 * [LinkedIn](https://www.linkedin.com/in/daniela-ivon-duarte/)
 * [GitHub](https://github.com/IvonDuarte1989)
 
+## QA Tester Portfolio (English)
+* [Link QA Tester Portfolio]()
+
+
   
