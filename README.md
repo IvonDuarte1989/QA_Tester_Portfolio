@@ -63,9 +63,10 @@ Busco mi primera oportunidad para aplicar mis habilidades, aprender y aportar va
 * Educación IT - Análisis y Diseño de Casos de Pruebas (2024) + [Portfolio](https://github.com/IvonDuarte1989/EducacionITCasosDePrueba)
 
 ## Ejemplos de mi trabajo 
-### Documentación de muestra | Cuesta Blanca
-* [Casos de Prueba](https://docs.google.com/spreadsheets/d/19USPOfThNPuMei1hHb9Ey3YkZm2NhyfaYo6mJUIU_O4/edit?usp=drive_link)
-* [Reporte de Errores](https://docs.google.com/spreadsheets/d/1ObkLRDAbsNiAP2ZGg-Ry9xcW6SxNy868uwi5Wn9tC18/edit?usp=drive_link)
+### Documentación de muestra 
+* [Cuesta Blanca](https://www.cuestablanca.com/)
+  - [Casos de Prueba](https://docs.google.com/spreadsheets/d/19USPOfThNPuMei1hHb9Ey3YkZm2NhyfaYo6mJUIU_O4/edit?usp=drive_link)
+  - [Reporte de Errores](https://docs.google.com/spreadsheets/d/1ObkLRDAbsNiAP2ZGg-Ry9xcW6SxNy868uwi5Wn9tC18/edit?usp=drive_link)
 
 ### Consultas en PostgreSQL
 * [SQL](https://docs.google.com/document/d/1oS9i0QEwOG0rfQScSPTxb5-Qv2cJfLX9QTXc7C3nSHc/edit?usp=drive_link)
