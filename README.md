@@ -75,7 +75,7 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1V
 ### Documentación de muestra 
 * [Cuesta Blanca](https://www.cuestablanca.com/)
   - [Casos de Prueba](https://docs.google.com/spreadsheets/d/19USPOfThNPuMei1hHb9Ey3YkZm2NhyfaYo6mJUIU_O4/edit?usp=drive_link)
-  - [Reporte de Errores](https://docs.google.com/spreadsheets/d/1ObkLRDAbsNiAP2ZGg-Ry9xcW6SxNy868uwi5Wn9tC18/edit?usp=drive_link)
+  - [#1 - Reporte de Errores](https://docs.google.com/spreadsheets/d/1ObkLRDAbsNiAP2ZGg-Ry9xcW6SxNy868uwi5Wn9tC18/edit?usp=drive_link)
 * [Ikiwi - Calculadora para préstamos](https://ikiwi.net.ar/prestamos/calculadora-cft/)
   - [Caso de Prueba](https://docs.google.com/spreadsheets/d/1rgX2bxusrgEYDVlabJgEToYoTHddF7plqar6tu8gxug/edit?usp=drive_link)
   - [#1 - Reporte de Errores](https://docs.google.com/spreadsheets/d/1Hwz5mtOjvpxqqXXPRr6paL6YfNN1dYwT2Xy2LNejEKc/edit?usp=drive_link)
