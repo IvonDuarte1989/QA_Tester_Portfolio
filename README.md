@@ -10,7 +10,6 @@
     - [Pruebas exploratorias](#pruebas-exploratorias)
     - [Documentación de pruebas](#documentación-de-pruebas)
     - [Bases de datos SQL](#bases-de-datos-sql)
-    - [Habilidades blandas](#habilidades-blandas-)
 * [Cursos](#cursos-)
 * [Ejemplos de mi trabajo](#ejemplos-de-mi-trabajo-)
 * [Libros](#libros-)
@@ -65,16 +64,6 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1V
 * Capaz de escribir consultas complejas utilizando subconsultas
 * Familiarizado con el uso de alias y comodines
 * Conoce la diferencia entre joins y unions y puede aplicarlos en consultas
-
-### Habilidades blandas 📁
-* Pensamiento analítico – Capacidad para analizar problemas y encontrar patrones
-* Atención al detalle – Habilidad para identificar errores e inconsistencias
-* Trabajo en equipo – Colaboración con desarrolladores, analistas y otros testers
-* Resolución de problemas – Capacidad de investigar y proponer soluciones
-* Adaptabilidad – Flexibilidad para trabajar con cambios y nuevos requisitos
-* Curiosidad y aprendizaje continuo – Interés en mejorar y aprender nuevas herramientas y técnicas de testing
-* Gestión del tiempo – Organización para cumplir plazos y manejar múltiples tareas
-* Proactividad – Capacidad de tomar iniciativa en la búsqueda y documentación de errores
 
 ## Cursos 📓
 * Codo a Codo 4.0 - Full Stack - Python (2022) + [Portfolio](https://github.com/IvonDuarte1989/pasteleria)
