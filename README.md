@@ -84,6 +84,8 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1V
 ### Consultas en PostgreSQL
 * [SQL](https://docs.google.com/document/d/1oS9i0QEwOG0rfQScSPTxb5-Qv2cJfLX9QTXc7C3nSHc/edit?usp=drive_link)
 
+### API Testing (Postman)
+
 ## Libros 📚
 * Wong Durand, S. (2017). Análisis y requerimientos de software: Manual autoformativo interactivo. Universidad Continental
 * Comité Internacional de Cualificación de Pruebas de Software. (2023). ISTQB Certified Tester Foundation Level
