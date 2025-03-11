@@ -1,5 +1,5 @@
 # QA Tester Portfolio 🔍🐞
-##Indice
+## Indice
 
 ## Perfil 👋
 Mi nombre es Daniela Ivón Duarte, QA Tester autodidacta en constante crecimiento. Actualmente, estudio la Tecnicatura en Programación Informática en la Universidad Nacional de Quilmes.  
