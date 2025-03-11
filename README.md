@@ -11,7 +11,7 @@
     - [Documentación de pruebas](#documentación-de-pruebas)
     - [Bases de datos SQL](#bases-de-datos-sql)
     - [Habilidades blandas](#habilidades-blandas-)
-* [Cursos](cursos-)
+* [Cursos](#cursos-)
 * [Ejemplos de mi trabajo](#ejemplos-de-mi-trabajo-)
 * [Libros](#libros-)
 * [Contáctame](#contáctame-)
