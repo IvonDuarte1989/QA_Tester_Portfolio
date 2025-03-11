@@ -1,21 +1,21 @@
 # QA Tester Portfolio 🔍🐞
 ## Indice
-* Perfil
-* CV
-* Herramientas
-* Habilidades
-    - Testing manual
-    - Diseño y análisis de casos de prueba
-    - API testing
-    - Pruebas exploratorias
-    - Documentación de pruebas
-    - Base da datos SQL
-    - Habilidades blandas
-* Cursos
-* Ejemplos de mi trabajo
-* Libros
-* Contáctame
-* Portfolio en Inglés
+* [Perfil](#perfil-)
+* [CV](#cv-)
+* [Herramientas](#herramientas-)
+* [Habilidades](#habilidades-)
+    - [Testing manual](#testing-manual)
+    - [Diseño y análisis de casos de prueba](#diseño-y-análisis-de-casos-de-prueba)
+    - [API testing](#api-testing)
+    - [Pruebas exploratorias](#pruebas-exploratorias)
+    - [Documentación de pruebas](#documentación-de-pruebas)
+    - [Bases de datos SQL](#bases-de-datos-sql)
+    - [Habilidades blandas](#habilidades-blandas-)
+* [Cursos](cursos-)
+* [Ejemplos de mi trabajo](#ejemplos-de-mi-trabajo-)
+* [Libros](#libros-)
+* [Contáctame](#contáctame-)
+* [QA Tester Porfolio (English)](#qa-tester-portfolio-english)
 
 ## Perfil 👋
 Mi nombre es Daniela Ivón Duarte, QA Tester autodidacta en constante crecimiento. Actualmente, estudio la Tecnicatura en Programación Informática en la Universidad Nacional de Quilmes.  
