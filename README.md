@@ -21,17 +21,17 @@ Busco mi primera oportunidad para aplicar mis habilidades, aprender y aportar va
 Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1Vpvc-s4HcCOv32mof_jWA5932k9PZY3m/view?usp=drive_link)
 
 ## Herramientas 🔧
-* Jira, Spiraplan - project management
-* Slack - communication within the team
-* Google Drive - storing data
-* Git - for better work in development team and controlling software versions
-* GitHub - supporting Git and preparing my repositories
-* Xampp - practicing SQL
-* PostgreSQL - database
-* Postman - API testing
-* Rapise, Selenium - automated software testing tool
-* Visual Studio Code - practicing HTML and CSS
-* XRay - Jira plugin
+* Jira, Spiraplan - gestión de proyectos
+* Slack - comunicación dentro del equipo
+* Google Drive - almacenamiento de datos
+* Git - para mejorar el trabajo en equipo en desarrollo y controlar versiones de software
+* GitHub - soporte para Git y preparación de mis repositorios
+* Xampp - práctica de SQL
+* PostgreSQL - base de datos
+* Postman - pruebas de API
+* Rapise, Selenium - herramientas de automatización de pruebas de software
+* Visual Studio Code - práctica de HTML y CSS
+* XRay - plugin de Jira
 
 ## Habilidades 💻
 ### Testing manual
