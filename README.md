@@ -60,7 +60,7 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1V
 * Conoce la diferencia entre joins y unions y puede aplicarlos en consultas
 
 ## Cursos 📓
-* Codo a Codo 4.0 - Full Stack - Python (2022) + [Portfolio](https://github.com/IvonDuarte1989/pasteleria)
+* Codo a Codo 4.0 - Full Stack - Python (2022) + [Portfolio](https://github.com/IvonDuarte1989/museos)
 * Codo a Codo 4.0 - Testing QA & Automatización (2024) + [Portfolio](https://github.com/IvonDuarte1989/CodoACodoTesting-Automatizacion)
 * Educación IT - Tester QA Manual (2024) + [Contenidos](https://github.com/IvonDuarte1989/EducacionITTesterManual/blob/main/README.md)
 * Educación IT - Análisis y Diseño de Casos de Pruebas (2024) + [Portfolio](https://github.com/IvonDuarte1989/EducacionITCasosDePrueba)
