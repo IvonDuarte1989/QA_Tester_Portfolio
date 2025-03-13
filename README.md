@@ -79,6 +79,7 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1V
 * [SQL](https://docs.google.com/document/d/1oS9i0QEwOG0rfQScSPTxb5-Qv2cJfLX9QTXc7C3nSHc/edit?usp=drive_link)
 
 ### API Testing (Postman)
+* [API Testing](https://docs.google.com/document/d/18hw9iYi5XPgYrfGg_PMKjgbnDGoccn3QTRSoIBbQCU8/edit?usp=drive_link)
 
 ## Libros 📚
 * Wong Durand, S. (2017). Análisis y requerimientos de software: Manual autoformativo interactivo. Universidad Continental
