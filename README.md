@@ -48,16 +48,16 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1V
 * Creación de peticiones para pruebas
 
 ### Pruebas exploratorias
-* Capaz de utilizar los test tours de Whittaker y de crear listas de verificación para probar aplicaciones web
+* Capacidad para utilizar los test tours de Whittaker y de crear listas de verificación para probar aplicaciones web
 
 ### Documentación de pruebas
-* Capaz de crear casos de prueba y checklists y reconocer cómo y en qué situaciones utilizarlos de manera efectiva
+* Capacidad para crear casos de prueba y checklists y reconocer cómo y en qué situaciones utilizarlos de manera efectiva
 * Habilidad para preparar informes de errores detallados y proporcionar reportes completos de sesiones de prueba
 
 ### Bases de datos SQL
-* Capaz de escribir consultas complejas utilizando subconsultas
-* Familiarizado con el uso de alias y comodines
-* Conoce la diferencia entre joins y unions y puede aplicarlos en consultas
+* Capacidad para escribir consultas complejas utilizando subconsultas
+* Familiarizada con el uso de alias y comodines
+* Habilidad para diferenciar joins y unions y puede aplicarlos en consultas
 
 ## Cursos 📓
 * Codo a Codo 4.0 - Full Stack - Python (2022) + [Portfolio](https://github.com/IvonDuarte1989/museos)
