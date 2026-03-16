@@ -19,43 +19,48 @@ Trabajo con BDD, transformando casos de prueba desde lenguaje natural a escenari
 Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1Vpvc-s4HcCOv32mof_jWA5932k9PZY3m/view?usp=drive_link)
 
 ## Herramientas 🔧
-* Jira, Spiraplan - gestión de proyectos
-* Slack - comunicación dentro del equipo
-* Google Drive - almacenamiento de datos
-* Git - para mejorar el trabajo en equipo en desarrollo y controlar versiones de software
-* GitHub - soporte para Git y preparación de mis repositorios
-* Xampp - práctica de SQL
-* PostgreSQL - base de datos
-* Postman - pruebas de API
-* Rapise, Selenium - herramientas de automatización de pruebas de software
-* Visual Studio Code - práctica de HTML y CSS
-* XRay, QMetry - plugin de Jira
+* Jira – gestión de incidencias, seguimiento de bugs y trabajo en entornos ágiles
+* QMetry, Xray – gestión y ejecución de casos de prueba en Jira
+* Selenium – automatización de pruebas para aplicaciones web
+* Java – desarrollo de scripts de automatización
+* Gherkin (BDD) – redacción de escenarios de prueba en lenguaje estructurado
+* Postman – pruebas de API
+* Git / GitHub – control de versiones y colaboración en proyectos
+* PostgreSQL – consultas y validación de datos en bases de datos
+* XAMPP – entorno de práctica para bases de datos y SQL
+* Visual Studio Code – edición de código y revisión de HTML/CSS
+* Rapise – automatización de pruebas
+* Slack, Microsoft Teams – comunicación y colaboración en equipos de trabajo
+* Google Drive – gestión y almacenamiento de documentación
 
 ## Habilidades 💻
-### Testing manual
-* Capacidad para realizar testing de funcionalidad para aplicaciones web
-* Ejecutar pruebas en aplicaciones o sistemas para identificar errores y asegurar su correcto funcionamiento 
+### Testing de Software
+* Testing manual de aplicaciones web
+* Ejecución de pruebas funcionales y exploratorias
+* Diseño, análisis y documentación de casos de prueba
+* Creación de escenarios de prueba y checklists
+* Identificación, documentación y seguimiento de defectos (bug reporting)
+* Conversión de casos de prueba a formato Gherkin (BDD)
 
-### Diseño y análisis de casos de prueba
-* Análisis de requermientos
-* Creación de escenarios de prueba
-* Elaboración de casos de prueba
+### Automatización de pruebas
+* Automatización de pruebas web con Selenium y Java
+* Identificación de locators en HTML para scripts de automatización
+* Ejecución de pruebas automatizadas y validación de resultados
 
-### API testing
-* Diferencia entre APIs SOAP y REST
-* Creación de peticiones para pruebas
+### API Testing
+* Pruebas de APIs utilizando Postman
+* Comprensión de arquitecturas REST y SOAP
+* Creación y validación de requests y responses
 
-### Pruebas exploratorias
-* Capacidad para utilizar los test tours de Whittaker y de crear listas de verificación para probar aplicaciones web
+### Bases de Datos
+* Escritura de consultas SQL para validación de datos
+* Uso de joins, subconsultas, alias y comodines
+* Validación de integridad de datos en PostgreSQL
 
-### Documentación de pruebas
-* Capacidad para crear casos de prueba y checklists y reconocer cómo y en qué situaciones utilizarlos de manera efectiva
-* Habilidad para preparar informes de errores detallados y proporcionar reportes completos de sesiones de prueba
-
-### Bases de datos SQL
-* Capacidad para escribir consultas complejas utilizando subconsultas
-* Familiarizada con el uso de alias y comodines
-* Habilidad para diferenciar joins y unions y puede aplicarlos en consultas
+### Metodologías de trabajo
+* Trabajo en metodologías ágiles (Scrum)
+* Gestión de pruebas y defectos en Jira + plugins de testing
+* Colaboración en equipos multidisciplinarios de desarrollo
 
 ## Cursos 📓
 * Talento Tech - Testing QA (2025) + [Portfolio](https://github.com/IvonDuarte1989/Testing-QA---Talento-Tech-2025/blob/main/README.md)
