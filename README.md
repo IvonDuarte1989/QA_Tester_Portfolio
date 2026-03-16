@@ -60,6 +60,7 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1V
 * Habilidad para diferenciar joins y unions y puede aplicarlos en consultas
 
 ## Cursos 📓
+* Talento Tech - Testing QA-TalentoTech (2025) + [Portfolio](https://github.com/IvonDuarte1989/Testing-QA---Talento-Tech-2025/blob/main/README.md)
 * Codo a Codo 4.0 - Full Stack - Python (2022) + [Portfolio](https://github.com/IvonDuarte1989/museos)
 * Codo a Codo 4.0 - Testing QA & Automatización (2024) + [Portfolio](https://github.com/IvonDuarte1989/CodoACodoTesting-Automatizacion)
 * Educación IT - Tester QA Manual (2024) + [Contenidos](https://github.com/IvonDuarte1989/EducacionITTesterManual/blob/main/README.md)
@@ -80,10 +81,6 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1V
 
 ### API Testing (Postman)
 * [API Testing](https://docs.google.com/document/d/18hw9iYi5XPgYrfGg_PMKjgbnDGoccn3QTRSoIBbQCU8/edit?usp=drive_link)
-
-## Libros 📚
-* Wong Durand, S. (2017). Análisis y requerimientos de software: Manual autoformativo interactivo. Universidad Continental
-* Comité Internacional de Cualificación de Pruebas de Software. (2023). ISTQB Certified Tester Foundation Level
 
 ## Contáctame 📩
 * E-Mail: danielaivonduarte@gmail.com
