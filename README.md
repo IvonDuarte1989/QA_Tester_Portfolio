@@ -83,7 +83,9 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1V
 ## Experiencia Laboral
 QA Tester Junior (Manual & Automation) – Híbrido
 (jun. 2025 - actualidad) 
+
 NTT DATA | Proyecto: Actualización SADE
+
 QA Tester Junior con experiencia en testing manual y automatizado, participando en el aseguramiento de calidad del sistema SADE.
 
 * Análisis de requerimientos y diseño de casos de prueba.
