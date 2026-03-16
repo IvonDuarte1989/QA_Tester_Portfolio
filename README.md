@@ -6,7 +6,7 @@
 * [Habilidades](#habilidades-)
 * [Cursos](#cursos-)
 * [Ejemplos de mi trabajo](#ejemplos-de-mi-trabajo-)
-* [Experiencia Laboral](#experiencia-laboral-)
+* [Experiencia Laboral](#experiencia-laboral)
 * [Contáctame](#contáctame-)
 * [QA Tester Porfolio (English)](#qa-tester-portfolio-english)
 
