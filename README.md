@@ -4,9 +4,9 @@
 * [CV](#cv-)
 * [Herramientas](#herramientas-)
 * [Habilidades](#habilidades-)
-* [Cursos](#cursos-)
 * [Ejemplos de mi trabajo](#ejemplos-de-mi-trabajo-)
 * [Experiencia Laboral](#experiencia-laboral)
+* [Cursos](#cursos-)
 * [Contáctame](#contáctame-)
 * [QA Tester Porfolio (English)](#qa-tester-portfolio-english)
 
@@ -62,13 +62,6 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1V
 * Gestión de pruebas y defectos en Jira + plugins de testing
 * Colaboración en equipos multidisciplinarios de desarrollo
 
-## Cursos 📓
-* Talento Tech - Testing QA (2025) + [Portfolio](https://github.com/IvonDuarte1989/Testing-QA---Talento-Tech-2025/blob/main/README.md)
-* Codo a Codo 4.0 - Full Stack - Python (2022) + [Portfolio](https://github.com/IvonDuarte1989/museos)
-* Codo a Codo 4.0 - Testing QA & Automatización (2024) + [Portfolio](https://github.com/IvonDuarte1989/CodoACodoTesting-Automatizacion)
-* Educación IT - Tester QA Manual (2024) + [Contenidos](https://github.com/IvonDuarte1989/EducacionITTesterManual/blob/main/README.md)
-* Educación IT - Análisis y Diseño de Casos de Pruebas (2024) + [Portfolio](https://github.com/IvonDuarte1989/EducacionITCasosDePrueba)
-
 ## Ejemplos de mi trabajo 🔬
 ### Documentación de muestra 
 * [Cuesta Blanca](https://www.cuestablanca.com/)
@@ -99,7 +92,14 @@ QA Tester Junior con experiencia en testing manual y automatizado, participando 
 * Conversión de casos de prueba de lenguaje natural a Gherkin (BDD).
 * Identificación de locators (HTML) y ejecución de pruebas automatizadas con Selenium y Java.
 * Ejecución de pruebas unitarias y proyectos de automatización secuenciales.
-* Herramientas: Jira, QMetry, Selenium, Java, Gherkin  
+* Herramientas: Jira, QMetry, Selenium, Java, Gherkin
+
+## Cursos 📓
+* Talento Tech - Testing QA (2025) + [Portfolio](https://github.com/IvonDuarte1989/Testing-QA---Talento-Tech-2025/blob/main/README.md)
+* Codo a Codo 4.0 - Full Stack - Python (2022) + [Portfolio](https://github.com/IvonDuarte1989/museos)
+* Codo a Codo 4.0 - Testing QA & Automatización (2024) + [Portfolio](https://github.com/IvonDuarte1989/CodoACodoTesting-Automatizacion)
+* Educación IT - Tester QA Manual (2024) + [Contenidos](https://github.com/IvonDuarte1989/EducacionITTesterManual/blob/main/README.md)
+* Educación IT - Análisis y Diseño de Casos de Pruebas (2024) + [Portfolio](https://github.com/IvonDuarte1989/EducacionITCasosDePrueba)  
 
 ## Contáctame 📩
 * E-Mail: danielaivonduarte@gmail.com
