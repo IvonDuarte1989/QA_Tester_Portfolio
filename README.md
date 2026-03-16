@@ -31,7 +31,7 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1V
 * Postman - pruebas de API
 * Rapise, Selenium - herramientas de automatización de pruebas de software
 * Visual Studio Code - práctica de HTML y CSS
-* XRay - plugin de Jira
+* XRay, QMetry - plugin de Jira
 
 ## Habilidades 💻
 ### Testing manual
