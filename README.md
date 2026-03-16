@@ -10,11 +10,9 @@
 * [QA Tester Porfolio (English)](#qa-tester-portfolio-english)
 
 ## Perfil 👋
-Mi nombre es Daniela Ivón Duarte, QA Tester autodidacta en constante crecimiento. Actualmente, estudio la Tecnicatura en Programación Informática en la Universidad Nacional de Quilmes.  
+QA Tester Junior con experiencia en testing manual y automatizado en proyectos de actualización de sistemas. Realizo análisis de requerimientos, diseño, creación y ejecución de casos de prueba, testing exploratorio y gestión de bugs utilizando Jira con QMetry.
 
-Tengo conocimientos en testing manual, análisis de casos de prueba, SQL, pruebas de API con Postman, análisis de requerimientos, Jira, metodologías ágiles (Scrum) y fundamentos de automatización con Rapise.  
-
-Busco mi primera oportunidad para aplicar mis habilidades, aprender y aportar valor a un equipo de trabajo. Me motiva la mejora continua y el desafío de asegurar la calidad del software.
+Trabajo con BDD, transformando casos de prueba desde lenguaje natural a escenarios Gherkin, identificación de locators (HTML) y ejecución de pruebas automatizadas con Selenium y Java, incluyendo pruebas unitarias y ejecución de proyectos de automatización de forma secuencial. Enfocada en la calidad del software, la detección temprana de defectos y la mejora continua dentro de equipos ágiles.
 
 ## CV 📝
 Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1Vpvc-s4HcCOv32mof_jWA5932k9PZY3m/view?usp=drive_link)
