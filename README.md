@@ -6,7 +6,7 @@
 * [Habilidades](#habilidades-)
 * [Cursos](#cursos-)
 * [Ejemplos de mi trabajo](#ejemplos-de-mi-trabajo-)
-* [Experiencia Laboral](#experiencial-laboral-)
+* [Experiencia Laboral](#experiencia-laboral-)
 * [Contáctame](#contáctame-)
 * [QA Tester Porfolio (English)](#qa-tester-portfolio-english)
 
@@ -64,22 +64,6 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1V
 * Educación IT - Tester QA Manual (2024) + [Contenidos](https://github.com/IvonDuarte1989/EducacionITTesterManual/blob/main/README.md)
 * Educación IT - Análisis y Diseño de Casos de Pruebas (2024) + [Portfolio](https://github.com/IvonDuarte1989/EducacionITCasosDePrueba)
 
-## Experiencia Laboral
-QA Tester Junior (Manual & Automation) – Híbrido
-(jun. 2025 - actualidad) 
-
-NTT DATA | Proyecto: Actualización SADE
-
-QA Tester Junior con experiencia en testing manual y automatizado, participando en el aseguramiento de calidad del sistema SADE.
-
-* Análisis de requerimientos y diseño de casos de prueba.
-* Ejecución de pruebas manuales en Jira (QMetry) y testing exploratorio.
-* Reporte y seguimiento de bugs en Jira.
-* Conversión de casos de prueba de lenguaje natural a Gherkin (BDD).
-* Identificación de locators (HTML) y ejecución de pruebas automatizadas con Selenium y Java.
-* Ejecución de pruebas unitarias y proyectos de automatización secuenciales.
-* Herramientas: Jira, QMetry, Selenium, Java, Gherkin
-
 ## Ejemplos de mi trabajo 🔬
 ### Documentación de muestra 
 * [Cuesta Blanca](https://www.cuestablanca.com/)
@@ -95,6 +79,20 @@ QA Tester Junior con experiencia en testing manual y automatizado, participando 
 
 ### API Testing (Postman)
 * [API Testing](https://docs.google.com/document/d/18hw9iYi5XPgYrfGg_PMKjgbnDGoccn3QTRSoIBbQCU8/edit?usp=drive_link)
+
+## Experiencia Laboral
+QA Tester Junior (Manual & Automation) – Híbrido
+(jun. 2025 - actualidad) 
+NTT DATA | Proyecto: Actualización SADE
+QA Tester Junior con experiencia en testing manual y automatizado, participando en el aseguramiento de calidad del sistema SADE.
+
+* Análisis de requerimientos y diseño de casos de prueba.
+* Ejecución de pruebas manuales en Jira (QMetry) y testing exploratorio.
+* Reporte y seguimiento de bugs en Jira.
+* Conversión de casos de prueba de lenguaje natural a Gherkin (BDD).
+* Identificación de locators (HTML) y ejecución de pruebas automatizadas con Selenium y Java.
+* Ejecución de pruebas unitarias y proyectos de automatización secuenciales.
+* Herramientas: Jira, QMetry, Selenium, Java, Gherkin  
 
 ## Contáctame 📩
 * E-Mail: danielaivonduarte@gmail.com
