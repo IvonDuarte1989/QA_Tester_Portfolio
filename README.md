@@ -98,8 +98,8 @@ QA Tester Junior con experiencia en testing manual y automatizado, participando 
 * Talento Tech - Testing QA (2025) + [Portfolio](https://github.com/IvonDuarte1989/Testing-QA---Talento-Tech-2025/blob/main/README.md)
 * Educación IT - Tester QA Manual (2024) + [Contenidos](https://github.com/IvonDuarte1989/EducacionITTesterManual/blob/main/README.md)
 * Educación IT - Análisis y Diseño de Casos de Pruebas (2024) + [Portfolio](https://github.com/IvonDuarte1989/EducacionITCasosDePrueba)
-* * Codo a Codo 4.0 - Testing QA & Automatización (2024) + [Portfolio](https://github.com/IvonDuarte1989/CodoACodoTesting-Automatizacion)
-* * Codo a Codo 4.0 - Full Stack - Python (2022) + [Portfolio](https://github.com/IvonDuarte1989/museos)
+* Codo a Codo 4.0 - Testing QA & Automatización (2024) + [Portfolio](https://github.com/IvonDuarte1989/CodoACodoTesting-Automatizacion)
+* Codo a Codo 4.0 - Full Stack - Python (2022) + [Portfolio](https://github.com/IvonDuarte1989/museos)
 
 ## Contáctame 📩
 * E-Mail: danielaivonduarte@gmail.com
